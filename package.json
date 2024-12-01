@@ -1,0 +1,16 @@
+{
+  "name": "ssk",
+  "version": "1.0.0",
+  "description": "SSK Web interface",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "author": "lmarkus",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "express-validator": "^7.2.0"
+  }
+}
